@@ -171,6 +171,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Rivet](https://rivet.cloud) - Cloud-based ETH APIs with a free tier. Supports Web3 login and payments.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Triton One](https://triton.one/) - High-performance RPC solutions for Solana, Sui, and other blockchains with dedicated infrastructure.
+- [Tenderly](https://tenderly.co/) - Full-stack Web3 infrastructure platform providing RPCs, DevNets (instant mainnet forks), debugging, and advanced monitoring for EVM-based chains.
 
 ## SDKs and Libraries
 
